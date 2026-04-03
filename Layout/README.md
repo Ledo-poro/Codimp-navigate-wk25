@@ -267,7 +267,7 @@ Contributions are welcome! Here's how you can help:
 ## 📞 Support & Contact
 
 For questions, suggestions, or issues:
-- 📧 Email: support@projectname.com
+- 📧 Email: zwmkhaled@gmail.com
 - 💬 Open an issue in the project repository
 - 📝 Check existing documentation above
 
