@@ -1,0 +1,61 @@
+/* General main styles */
+main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 60px;
+}
+
+main h2{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+main p{
+    font-size: 25px;
+    font-weight: 500;
+}
+
+main p a{
+    text-decoration: none;
+    color: #00d4ff;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+main p a:hover{
+    color: #00bcd4;
+    text-decoration: underline;
+}
+
+main section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    gap: 10px;
+    text-align: center;
+}
+
+
+main .buttons button{
+    background: #667eea;
+    color: #000;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+main .buttons button:hover{
+    background: #889ae7;
+    transform: scale(1.1);
+}
